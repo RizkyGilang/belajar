@@ -1,1 +1,3 @@
 # belajar
+
+belajar git menyenangkan 
